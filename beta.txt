@@ -1,1 +1,2 @@
-status=open
+status=closed
+message=Prueba de cierre
