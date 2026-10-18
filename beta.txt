@@ -1,1 +1,2 @@
-status=open
+status=closed
+message=La beta de GRAVEMIND ha terminado. Gracias por probar.
