@@ -1,1 +1,3 @@
 status=open
+status2=open
+message2=message2
