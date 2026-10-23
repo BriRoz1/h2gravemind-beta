@@ -1,5 +1,5 @@
-status2=open
 status=closed
 message=This beta version has ended. Download the new beta from the Project Gravemind Discord: from now on it updates itself.
 message_es=Esta versión de la beta terminó. Descarga la nueva beta desde el Discord de Project Gravemind: a partir de ahora se actualiza sola.
 message_en=This beta version has ended. Download the new beta from the Project Gravemind Discord: from now on it updates itself.
+status2=closed
